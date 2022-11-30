@@ -1,0 +1,22 @@
+#header h1 {
+    font-size: calc(14px + 1.8vw);
+    line-height: calc(10px + 3vw);
+}
+
+#main h1 {
+    font-size: calc(40px + 3vw);
+}
+
+#main #address h3 {
+    font-size: calc(10px + 0.8vw);
+    letter-spacing: 5px;
+}
+
+#main h3 {
+    font-size: calc(10px + 0.8vw);
+    letter-spacing: 2px;
+}
+
+#store_list_label {
+    font-size: calc(20px + 4vw) !important;
+}

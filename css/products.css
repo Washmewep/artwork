@@ -1,0 +1,40 @@
+.button-cart {
+    color: black;
+    background-color: #cfcfcf;
+    height: calc(50px + 1vw);
+    width: 100%;
+    border: none;
+}
+
+.button-buy {
+    color: black;
+    background-color: #FFBD59;
+    height: calc(50px + 1vw);
+    width: 100%;
+}
+
+.product-img {
+    width: calc(55px + 4vw);
+}
+
+.main-product-img {
+    width: calc(150px + 18vw);
+}
+
+.price-label {
+    font-size: calc(25px + 2.5vw);
+}
+
+.product-label {
+    font-size: calc(35px + 0.2vw);
+    text-align: center;
+    vertical-align: middle;
+}
+
+.product-description {
+    font-size: calc(18px + 0.2vw);
+}
+
+.product-title {
+    font-size: calc(24px + 4vw) !important;
+}

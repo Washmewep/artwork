@@ -1,0 +1,31 @@
+#gallery img {
+    min-width: 100%;
+    object-fit: cover;
+    object-position: center center;
+    width: 500px;
+    height: 500px;
+}
+
+#header_title {
+    font-size: 9vw;
+}
+
+#main h1 {
+    font-size: 50px;
+}
+
+.customize-img-container {
+    height: 250px;
+}
+
+.customize-img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-width: 250px;
+    filter: drop-shadow(0px 15px 10px #541);
+}
+
+#logo {
+    width: calc(250px + 20vw);
+}
